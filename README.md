@@ -1,7 +1,7 @@
 # USACE_QCC_measurement_archive
 USACE Quality Controlled, Consistent Measurement Archive
 
-** Note - for annual updates, use the scripts in the folders named as <AGENCY_annual_runs_xxxx>** 
+** Note: for annual updates, use the scripts in the folders named as <AGENCY_annual_update_xxxx> ** 
 
 SYNOPSIS:
 The U.S. NOAA National Data Buoy Center (NDBC) releases duplicate meteorological and wave measurement data in multiple archive locations. Each data source has their own idiosyncrasies that cause differences within data with matching dates and times, even when collected by the same sensor at the same location. These variances need to be accounted for when using these NBDC data within U.S. Army Corps of Engineers (USACE) Engineers and Research Development Center (ERDC) products. These data issues are clearly outlined within the following USACE document: ERDC/CHL CHETN-I-100.
