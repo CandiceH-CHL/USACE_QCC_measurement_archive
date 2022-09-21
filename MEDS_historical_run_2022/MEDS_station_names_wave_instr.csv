@@ -1,0 +1,1080 @@
+station_buoy,station_id,station_name,station_type,station_year,wave_instrument
+44131,C44131,Gannet_Rock,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44131,C44131,Gannet_Rock,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44131,C44131,Gannet_Rock,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44131,C44131,Gannet_Rock,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44131,C44131,Gannet_Rock,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44131,C44131,Gannet_Rock,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44131,C44131,Gannet_Rock,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,6N,2014,MSC Non-directional ODAS buoy. 6m NOMAD
+44137,C44137,East_Scotian_Slope,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44137,C44137,East_Scotian_Slope,6N,2015,MSC Non-directional ODAS buoy. 6m NOMAD
+44137,C44137,East_Scotian_Slope,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+44137,C44137,East_Scotian_Slope,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+44137,C44137,East_Scotian_Slope,6N,2018,MSC Non-directional ODAS buoy. 6m NOMAD
+44137,C44137,East_Scotian_Slope,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+44137,C44137,East_Scotian_Slope,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+44137,C44137,East_Scotian_Slope,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+44137,C44137,East_Scotian_Slope,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+44138,C44138,SW_Grand_Banks,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+44138,C44138,SW_Grand_Banks,AW,1999,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+44138,C44138,SW_Grand_Banks,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44138,C44138,SW_Grand_Banks,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44139,C44139,Banquereau_Bank,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+44139,C44139,Banquereau_Bank,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+44139,C44139,Banquereau_Bank,6N,2018,MSC Non-directional ODAS buoy. 6m NOMAD
+44139,C44139,Banquereau_Bank,6N,2019,MSC Non-directional ODAS buoy. 6m NOMAD
+44139,C44139,Banquereau_Bank,6N,2020,MSC Non-directional ODAS buoy. 6m NOMAD
+44139,C44139,Banquereau_Bank,6N,2021,MSC Non-directional ODAS buoy. 6m NOMAD
+44139,C44139,Banquereau_Bank,6N,2022,MSC Non-directional ODAS buoy. 6m NOMAD
+44140,C44140,Tail_of_the_Bank,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+44140,C44140,Tail_of_the_Bank,AW,1999,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+44140,C44140,Tail_of_the_Bank,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44140,C44140,Tail_of_the_Bank,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+44141,C44141,Laurentian_Fan,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,6N,2014,MSC Non-directional ODAS buoy. 6m NOMAD
+44141,C44141,Laurentian_Fan,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44141,C44141,Laurentian_Fan,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+44141,C44141,Laurentian_Fan,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+44142,C44142,La_Have_Bank,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44142,C44142,La_Have_Bank,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,Point_Sapin,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,Point_Sapin,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,Point_Sapin,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,Point_Sapin,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44150,C44150,La_Have_Bank,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+44150,C44150,La_Have_Bank,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+44150,C44150,La_Have_Bank,6N,2018,MSC Non-directional ODAS buoy. 6m NOMAD
+44150,C44150,La_Have_Bank,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+44150,C44150,La_Have_Bank,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+44150,C44150,La_Have_Bank,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+44150,C44150,La_Have_Bank,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+44172,C44172,Halifax_(CDIP176),WD,2011,"Directional Waverider buoy, standard information processing system (Datawell)"
+44172,C44172,Halifax_(CDIP176),WD,2012,"Directional Waverider buoy, standard information processing system (Datawell)"
+44251,C44251,Nickerson_Bank,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44251,C44251,Nickerson_Bank,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+44251,C44251,Nickerson_Bank,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+44255,C44255,NE_Burgeo_Bank,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44255,C44255,NE_Burgeo_Bank,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+44258,C44258,Halifax_Harbour,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+44258,C44258,Halifax_Harbour,AE,2017,no information
+44258,C44258,Halifax_Harbour,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+44258,C44258,Halifax_Harbour,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+44258,C44258,Halifax_Harbour,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+44258,C44258,Halifax_Harbour,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+44258,C44258,Halifax_Harbour,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+45132,C45132,Port_Stanley,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+45132,C45132,Port_Stanley,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45132,C45132,Port_Stanley,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45132,C45132,Port_Stanley,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45132,C45132,Port_Stanley,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45132,C45132,Port_Stanley,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45132,C45132,Port_Stanley,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45132,C45132,Port_Stanley,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Port_Hope,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+45135,C45135,Prince_Edward_Point,AW,1999,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+45135,C45135,Prince_Edward_Point,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Prince_Edward_Point,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45135,C45135,Prince_Edward_Point,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Prince_Edward_Point,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Prince_Edward_Point,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Prince_Edward_Point,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Prince_Edward_Point,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45135,C45135,Prince_Edward_Point,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45136,C45136,Slate_Island,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45136,C45136,Slate_Island,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45137,C45137,Georgian_Bay,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45137,C45137,Georgian_Bay,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+45139,C45139,West_Lake_Ontario,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2017,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2018,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2019,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2020,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2021,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45139,C45139,West_Lake_Ontario,AE,2022,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+45142,C45142,Port_Colborne,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45142,C45142,Port_Colborne,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45142,C45142,Port_Colborne,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45142,C45142,Port_Colborne,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45142,C45142,Port_Colborne,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45142,C45142,Port_Colborne,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45142,C45142,Port_Colborne,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Geogian_Bay,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Geogian_Bay,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+45143,C45143,South_Geogian_Bay,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Geogian_Bay,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Geogian_Bay,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Geogian_Bay,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Geogian_Bay,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Georgian_Bay,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45143,C45143,South_Georgian_Bay,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Georgian_Bay,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Georgian_Bay,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Georgian_Bay,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Georgian_Bay,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45143,C45143,South_Georgian_Bay,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+45147,C45147,Lake_St._Clair,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45147,C45147,Lake_St._Clair,WK,2016,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45147,C45147,Lake_St._Clair,WK,2017,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45147,C45147,Lake_St._Clair,WK,2018,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45147,C45147,Lake_St._Clair,WK,2019,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45147,C45147,Lake_St._Clair,WK,2020,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45147,C45147,Lake_St._Clair,WK,2021,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45149,C45149,S_Lake_Huron,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,S_Lake_Huron,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,S_Lake_Huron,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,S_Lake_Huron,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45149,C45149,Southern_Lake_Huron,WK,2016,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45149,C45149,Southern_Lake_Huron,WK,2017,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45149,C45149,Southern_Lake_Huron,WK,2018,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45149,C45149,Southern_Lake_Huron,WK,2019,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45149,C45149,Southern_Lake_Huron,WK,2020,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45149,C45149,Southern_Lake_Huron,WK,2021,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45154,C45154,North_Channel_E,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45154,C45154,North_Channel_E,WK,2016,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45154,C45154,North_Channel_E,WK,2017,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45154,C45154,North_Channel_E,WK,2018,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45154,C45154,North_Channel_E,WK,2019,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45154,C45154,North_Channel_E,WK,2020,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45154,C45154,North_Channel_E,WK,2021,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+45159,C45159,Grimsby,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,Grimsby,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,Grimsby,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,no information,no information,2005,no information
+45159,C45159,no information,no information,2006,no information
+45159,C45159,no information,no information,2007,no information
+45159,C45159,no information,no information,2008,no information
+45159,C45159,NW_Lake_Ontario,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+45159,C45159,NW_Lake_Ontario,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+45159,C45159,NW_Lake_Ontario,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+45159,C45159,NW_Lake_Ontario,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+45159,C45159,NW_Lake_Ontario,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+45159,C45159,NW_Lake_Ontario,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+45159,C45159,NW_Lake_Ontario,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46004,C46004,Middle_Nomad,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46004,C46004,Middle_Nomad,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+46004,C46004,Middle_Nomad,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+46004,C46004,Middle_Nomad,6N,2018,MSC Non-directional ODAS buoy. 6m NOMAD
+46004,C46004,Middle_Nomad,6N,2019,MSC Non-directional ODAS buoy. 6m NOMAD
+46004,C46004,Middle_Nomad,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46004,C46004,Middle_Nomad,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46004,C46004,Middle_Nomad,6N,2020,MSC Non-directional ODAS buoy. 6m NOMAD
+46004,C46004,Middle_Nomad,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46004,C46004,Middle_Nomad,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46036,C46036,South_Nomad,AE,1987,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,6N,2014,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,AE,2016,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46036,C46036,South_Nomad,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,6N,2018,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,6N,2019,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,6N,2020,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,6N,2021,MSC Non-directional ODAS buoy. 6m NOMAD
+46036,C46036,South_Nomad,6N,2022,MSC Non-directional ODAS buoy. 6m NOMAD
+46131,C46131,Sentry_Shoal,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46131,C46131,Sentry_Shoal,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46131,C46131,Sentry_Shoal,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46131,C46131,Sentry_Shoal,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46131,C46131,Sentry_Shoal,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46131,C46131,Sentry_Shoal,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46131,C46131,Sentry_Shoal,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46131,C46131,Sentry_Shoal,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46132,C46132,South_Brooks,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46132,C46132,South_Brooks,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46145,C46145,Central_Dixon_Entran,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2015,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46145,C46145,Central_Dixon_Entran,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46146,C46146,Halibut_Bank,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46146,C46146,Halibut_Bank,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46147,C46147,South_Moresby,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46147,C46147,South_Moresby,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46181,C46181,Nanakwa_Shoal,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46181,C46181,Nanakwa_Shoal,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46183,C46183,North_Hecate_Strait,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46183,C46183,North_Hecate_Strait,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46184,C46184,North_Nomad,AE,1987,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,6N,2014,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46184,C46184,North_Nomad,6N,2016,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,6N,2017,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,6N,2018,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,6N,2019,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,6N,2020,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,6N,2021,MSC Non-directional ODAS buoy. 6m NOMAD
+46184,C46184,North_Nomad,6N,2022,MSC Non-directional ODAS buoy. 6m NOMAD
+46185,C46185,South_Hecate_Strait,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AW,1999,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+46185,C46185,South_Hecate_Strait,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46185,C46185,South_Hecate_Strait,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46185,C46185,South_Hecate_Strait,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46185,C46185,South_Hecate_Strait,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46185,C46185,South_Hecate_Strait,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46185,C46185,South_Hecate_Strait,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46185,C46185,South_Hecate_Strait,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46185,C46185,South_Hecate_Strait,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AW,1998,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+46204,C46204,West_Sea_Otter,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46204,C46204,West_Sea_Otter,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46204,C46204,West_Sea_Otter,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,AE,1988,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46205,C46205,West_Dixon_Entrance,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46205,C46205,West_Dixon_Entrance,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,AE,1989,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2012,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,3D,2014,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46207,C46207,East_Dellwood,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46207,C46207,East_Dellwood,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,AE,1990,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1991,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1992,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1993,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1994,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1995,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1996,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1997,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,1998,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AW,1999,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+46208,C46208,West_Moresby,AE,1999,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2000,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2001,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2002,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2003,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2004,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2005,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2006,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2007,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2008,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2009,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2010,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2011,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,3D,2012,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,AE,2013,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2014,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,AE,2015,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+46208,C46208,West_Moresby,3D,2016,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,3D,2017,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,3D,2018,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,3D,2019,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,3D,2020,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,3D,2021,MSC Non-directional ODAS buoy. 3m Discus
+46208,C46208,West_Moresby,3D,2022,MSC Non-directional ODAS buoy. 3m Discus
