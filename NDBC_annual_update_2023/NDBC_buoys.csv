@@ -1,0 +1,232 @@
+DODS,station,lon,lat,Hull No./Config and Location,region,type,owner
+41001,41001,-76.67,34.68,3DV44 (SC) East Hatteras,41,Moored Buoys,NDBC
+41002,41002,-74.83,31.75,3D50 (AR) South Hatteras,41,Moored Buoys,NDBC
+41004,41004,-79.08,32.5,3DV41 (SC) Edisto,41,Moored Buoys,NDBC
+41006,41006,-77.4,29.3,6-meter NOMAD buoy; GSBP payload,41,Moored Buoys,NDBC
+41008,41008,-80.87,31.4,3D36 (AM) Grays Reef,41,Moored Buoys,NDBC
+41009,41009,-80.18,28.5,3DV25 (SC) Canaveral,41,Moored Buoys,NDBC
+41010,41010,-74.68,35.47,3DV35 (SC) Canaveral East,41,Moored Buoys,NDBC
+41012,41012,-80.534,30.042,"3-meter discus buoy, AMPS, St Augustine",41,Moored Buoys,NDBC
+41013,41013,-77.73,33.43,"3DV21 (SC) Frying Pan Shoals, Nc (buoy)",41,Moored Buoys,NDBC
+41018,41018,-75,15,3-meter discus buoy; DACT payload; Caribbean Sea,41,Moored Buoys,NDBC
+41021,41021,-80.85,31.92,3-meter discus buoy; VEEP payload; Olympic Northeast,41,Moored Buoys,NDBC
+41022,41022,-80.86,31.89,3-meter discus buoy; VEEP payload; Olympic Southwest,41,Moored Buoys,NDBC
+41023,41023,-80.93,31.92,3-meter discus buoy; VEEP payload; Olympic Southwest,41,Moored Buoys,NDBC
+41025,41025,-75.4,35,3DV15 (SC) Diamond Shoals,41,Moored Buoys,NDBC
+41035,41035,-77.28,34.476,"3-meter discus buoy; ARES Payload; Onslow Bay Inner, NC",41,Moored Buoys,NDBC
+41036,41036,-76.949,34.207,"3-meter discus buoy; Onslow Bay Outter, NC",41,Moored Buoys,NDBC
+41040,41040,-53.07,14.55,3DV23 (SC) North Equatorial One,41,Moored Buoys,NDBC
+41041,41041,-46.07,14.32,3DV56 (SC) North Equatorial Two,41,Moored Buoys,NDBC
+41043,41043,-64.85,21.12,2.3D08 (SC) Ne Puerto Rico,41,Moored Buoys,NDBC
+41044,41044,-58.62,21.57,3DV49 (SC) Ne St Martin,41,Moored Buoys,NDBC
+41046,41046,-68.42,23.82,3DV51 (SC) East Bahamas,41,Moored Buoys,NDBC
+41047,41047,-71.52,27.52,3DV42 (SC) N.e. Bahamas,41,Moored Buoys,NDBC
+41048,41048,-69.58,31.85,3DV54 (SC) West Bermuda,41,Moored Buoys,NDBC
+41049,41049,-62.93,27.53,3DV31 (AR) South Bermuda,41,Moored Buoys,NDBC
+41060,,,,Woods Hole Northwest Tropical Atlantic Wave Station,,2.4-meter discus buoy; WAMDAS payload,WHOI
+41108,,,,"Wilmington Harbor, NC - (200)",,DWR,CDIP
+41110,,,,"Masonboro Inlet, ILM2, NC (150)",,DWR,CDIP
+41112,,,,"Offshore Fernandina Beach, FL (132) ",,DWR,CDIP
+41113,,,,"Cape Canaveral Nearshore, FL (143)",,DWR,CDIP
+41114,,,,"Fort Pierce, FL (134)",,DWR,CDIP
+41115,,,,"Rincon, Puerto Rico (181)",,DWR,CDIP
+41116,,,,"Oculina Bank North, FL (227)",,DWR,CDIP
+41117,,,,"St. Augustine, FL (194)",,DWR,CDIP
+41118,,,,"Chester Shoal, FL (228)",,DWR,CDIP
+41119,,,,"Sunset Beach, NC - (245)",,DWR,CDIP
+41159,,,,"Onslow Bay Outer, NC (217)",,DWR,CDIP
+42001,42001,-89.67,25.88,2.3D01 (SC) Mid Gulf,42,Moored Buoys,NDBC
+42002,42002,-93.75,26.08,3D74 (AR) West Gulf,42,Moored Buoys,NDBC
+42003,42003,-79.02,31.93,3DV15 (SC) East Gulf,42,Moored Buoys,NDBC
+42007,42007,-88.769,30.09,"3-meter discus buoy; ARES 4.4 payload; Biloxi, MS",42,Moored Buoys,NDBC
+42012,42012,-87.55,30.05,"3DV32 (AM) Orange Beach, Al",42,Moored Buoys,NDBC
+42019,42019,-95.35,27.9,"3DV14 (AR) Freeport, Tx",42,Moored Buoys,NDBC
+42020,42020,-96.73,27.7,"3DV26 (AR) Corpus Christi, Tx",42,Moored Buoys,NDBC
+42035,42035,-94.4,29.22,"3DV17 (AR) Galveston, Tx",42,Moored Buoys,NDBC
+42036,42036,-84.5,28.5,3D37 (AR) West Tampa,42,Moored Buoys,NDBC
+42038,42038,-92.555,27.421,3-meter discus buoy; ARES Payload; North Mid Gulf of Mexico,42,Moored Buoys,NDBC
+42039,42039,-86,28.78,3DV24 (AM) Pensacola,42,Moored Buoys,NDBC
+42040,42040,-88.22,29.2,2.4D05 (SC) Luke Offshore Test Platform,42,Moored Buoys,NDBC
+42041,42041,-90.462,27.504,"3-meter discus buoy; MARS payload; North Mid Gulf 110nm South of Grand Isle, LA",42,Moored Buoys,NDBC
+42042,42042,-88.32,29.88,3-meter discus buoy; MARS payload; Pascagoula,42,Moored Buoys,NDBC
+42053,42053,-88.5,29.55,12-meter discus buoy; MARS payload; Pascagoula South,42,Moored Buoys,NDBC
+42054,42054,-87.73,26,12-meter discus buoy; MARS payload; East Gulf,42,Moored Buoys,NDBC
+42055,42055,-93.95,22.12,3D49 (AR) Bay Of Campeche,42,Moored Buoys,NDBC
+42056,42056,-84.93,19.92,3DV46 (SC) Yucatan Basin,42,Moored Buoys,NDBC
+42057,42057,-81.42,16.9,3DV53 (SC) Western Caribbean,42,Moored Buoys,NDBC
+42058,42058,-74.57,14.88,3DV48 (SC) Central Caribbean,42,Moored Buoys,NDBC
+42059,42059,-128.1,34.7,3DV38 (SC) Eastern Caribbean Sea,42,Moored Buoys,NDBC
+42060,42060,-64.5,18.42,3DV52 (SC) Caribbean Valley,42,Moored Buoys,NDBC
+42065,42065,-75.046,14.926,2.3-meter NOOSS buoy; AMPS payload; Central Caribbean,42,Moored Buoys,NDBC
+42078,,,,"Big Pine Key, FL (237)",,DWR,CDIP
+42079,,,,"Bahia Honda Key, FL (242)",,DWR,CDIP
+42080,42080,-81.934,24.396,"1.8-meter discus buoy; WAMDAS payload; Offshore Sand Key, FL",42,Moored Buoys,NDBC
+42093,,,,"Grand Isle Outer, LA (247) ",,DWR,CDIP
+42094,,,,"Grand Isle, LA (246)",,DWR,CDIP
+42095,,,,"Satan Shoal, FL (244)",,DWR,CDIP
+42097,,,,"Pulley Ridge, FL (226)",,DWR,CDIP
+42098,,,,"Egmont Channel Entrance, FL (214)",,DWR,CDIP
+42099,,,,"Offshore St. Petersburg, FL (144)",,DWR,CDIP
+43010,,,,Woods Hole Spurs Wave Station,,2.4-meter discus buoy; WAMDAS payload,WHOI
+44004,44004,-70.433,38.484,"6-meter NOMAD buoy; ARES payload; HOTEL 200NM East of Cape May,NJ",44,Moored Buoys,NDBC
+44005,44005,-69.12,43.2,3DV16 (AM) Gulf Of Maine,44,Moored Buoys,NDBC
+44007,44007,-70.13,43.52,3D29 (AM) Portland,44,Moored Buoys,NDBC
+44008,44008,-69.23,40.5,3DV43 (AR) Nantucket,44,Moored Buoys,NDBC
+44009,44009,-74.7,38.45,3D27 (AM) Delaware Bay,44,Moored Buoys,NDBC
+44011,44011,-60.7,41.18,3DV08 (AR) Georges Bank,44,Moored Buoys,NDBC
+44013,44013,-70.65,42.33,3DV22 (AR) Boston,44,Moored Buoys,NDBC
+44014,44014,-74.83,36.6,3D90 (AR) Virginia Beach,44,Moored Buoys,NDBC
+44017,44017,-72.03,40.68,3D65 (AM) Montauk Point,44,Moored Buoys,NDBC
+44018,44018,-69.75,42.08,3DV45 (AM) Cape Cod,44,Moored Buoys,NDBC
+44020,44020,-70.18,41.43,3D41 (AR) Nantucket Sound,44,Moored Buoys,NDBC
+44025,44025,-73.15,40.25,3D87 (AM) Long Island,44,Moored Buoys,NDBC
+44027,44027,-67.3,44.28,"3D54 (AM) Jonesport, Me",44,Moored Buoys,NDBC
+44028,44028,-71.08,41.4,USCG Large Navigational Buoy; DACT payload,44,Moored Buoys,NDBC
+44056,,,,"Duck FRF, NC; Owned and maintained by U.S. Army Corps of Engineers; Data provided by Scripps Institution of Oceanography",,DWR,CDIP
+44065,44065,-73.7,40.37,3D25 (AR) New York Harbor Entrance,44,Moored Buoys,NDBC
+44066,44066,-72.58,39.57,3D88 (AR) Texas Tower #4,44,Moored Buoys,NDBC
+44070,44070,-71.004,41.392,1.8-meter discus buoy; WAMDAS payload; Buzzards Bay MA. Offshore,44,Moored Buoys,NDBC
+44086,,,,"Nags Head, NC (243) ",,DWR,CDIP
+44087,,,,"Thimble Shoal, VA (240)",,DWR,CDIP
+44088,,,,"Virginia Beach Offshore, VA (171)",,DWR,CDIP
+44089,,,,"Wallops Island, VA (224).",,DWR,CDIP
+44090,,,,"Cape Cod Bay, MA (221)",,DWR,CDIP
+44091,,,,"Barnegat, NJ (209)",,DWR,CDIP
+44095,,,,"Oregon Inlet, NC (192)",,DWR,CDIP
+44096,,,,"Cape Charles, VA (186)",,DWR,CDIP
+44097,,,,"Block Island, RI (154)",,DWR,CDIP
+44098,,,,"Jeffrey's Ledge, NH (160) ",,DWR,CDIP
+44099,,,,"Cape Henry, VA (147)",,DWR,CDIP
+44100,,,,"Duck FRF 26m, NC (430)",,DWR,CDIP
+,,,,,,,
+45001,45001,-87.78,48.05,3D33 (AM) Mid Superior,45,Moored Buoys,NDBC
+45002,45002,-86.4,45.33,3D46 (AM) North Michigan,45,Moored Buoys,NDBC
+45003,45003,-82.83,45.35,3DV29 (AR) North Huron,45,Moored Buoys,NDBC
+45004,45004,-86.58,47.58,3DV04 (AR) East Superior,45,Moored Buoys,NDBC
+45005,45005,-82.38,41.67,2.4D06 (SC) West Erie,45,Moored Buoys,NDBC
+45006,45006,-89.78,47.33,3DV19 (AR) West Superior,45,Moored Buoys,NDBC
+45007,45007,-87.02,42.67,3DV20 (AM) South Michigan,45,Moored Buoys,NDBC
+45008,45008,-82.4,44.28,3DV13 (AM) South Huron,45,Moored Buoys,NDBC
+45011,45011,-86.27,43.02,3-meter discus buoy; VEEP payload; Grand Haven Michigan,45,Moored Buoys,NDBC
+45012,45012,-77.4,43.62,3DV30 (AR) Lake Ontario,45,Moored Buoys,NDBC
+45180,,,,"Isle of Royale East, MI (230)",,DWR,CDIP
+,,,,,,,
+46001,46001,-147.93,56.22,3DV55 (AM) Western Gulf Of Alaska,46,Moored Buoys,NDBC
+46002,46002,-130.53,42.6,3DV57 (SC) West Oregon,46,Moored Buoys,NDBC
+46003,46003,-155.85,51.831,6-meter NOMAD buoy; DACT payload; S ALEUTIANS,46,Moored Buoys,NDBC
+46005,46005,-131.07,46.13,3D60 (SC) West Washington,46,Moored Buoys,NDBC
+46006,46006,-137.38,40.77,2.4D03 (SC) Southeast Papa,46,Moored Buoys,NDBC
+46011,46011,-121.02,34.95,3D28 (AM) Santa Maria,46,Moored Buoys,NDBC
+46012,46012,-122.87,37.35,3D69 (AR) Half Moon Bay,46,Moored Buoys,NDBC
+46013,46013,-123.3,38.23,3DV39 (SC) Bodega Bay,46,Moored Buoys,NDBC
+46014,46014,-123.97,39.23,2.3D05 (SC) Pt Arena,46,Moored Buoys,NDBC
+46015,46015,-125.15,42.7,3DV10 (SC) Port Orford,46,Moored Buoys,NDBC
+46022,46022,-124.52,40.72,3D80 (AR) Eel River,46,Moored Buoys,NDBC
+46023,46023,-120.967,34.714,"10-meter discus buoy; DACT payload; 17NM WNW of Point Arguello, CA",46,Moored Buoys,NDBC
+46025,46025,-119.05,33.73,3DV40 (SC) Santa Monica Basin,46,Moored Buoys,NDBC
+46026,46026,-122.83,37.75,3D24 (AM) San Francisco,46,Moored Buoys,NDBC
+46027,46027,-124.37,41.85,3D68 (AR) St Georges,46,Moored Buoys,NDBC
+46028,46028,-121.85,35.7,3D63 (AM) Cape San Martin,46,Moored Buoys,NDBC
+46029,46029,-124.48,46.13,3D57 (AM) Columbia River Bar,46,Moored Buoys,NDBC
+46030,46030,-124.525,40.423,"3-meter discus buoy; VEEP payload; Blunts Reef, CA",46,Moored Buoys,NDBC
+46035,46035,-177.73,57.02,3DV18 (AR) Central Bering Sea,46,Moored Buoys,NDBC
+46041,46041,-124.73,47.35,3D19 (AR) Cape Elizabeth,46,Moored Buoys,NDBC
+46042,46042,-122.38,36.78,3D79 (AR) Monterey,46,Moored Buoys,NDBC
+46045,46045,-118.45,33.84,"3-meter discus buoy; DACT payload; Redondo Beach, CA",46,Moored Buoys,NDBC
+46047,46047,-119.48,32.38,3D40 (AR) Tanner Bank,46,Moored Buoys,NDBC
+46050,46050,-124.5,44.67,3D30 (SC) Stonewall Bank,46,Moored Buoys,NDBC
+46051,46051,-120.69,34.48,3-meter discus buoy; DACT payload; Harvest Experiment Platform,46,Moored Buoys,NDBC
+46053,46053,-119.85,34.25,2.3D11 (SC) East Santa Barb,46,Moored Buoys,NDBC
+46054,46054,-120.47,34.25,3D81 (SC) West Santa Barb,46,Moored Buoys,NDBC
+46059,46059,-129.95,38.07,3D89 (SC) West California,46,Moored Buoys,NDBC
+46060,46060,-146.8,60.58,3D76 (AM) West Orca Bay,46,Moored Buoys,NDBC
+46061,46061,-146.83,60.22,3D32 (AR) Seal Rocks,46,Moored Buoys,NDBC
+46062,46062,-121.01,35.101,"3-meter discus buoy; ARES payload; Pt. San Luis, CA - 18 NM South Southwest of Morro Bay, CA",46,Moored Buoys,NDBC
+46063,46063,-120.699,34.273,"3-meter discus buoy; ARES 4.4 payload; Pt.Conception, CA - 50NM West of Santa Barbara, CA",46,Moored Buoys,NDBC
+46066,46066,-155.03,52.78,3D52 (AM) South Kodiak,46,Moored Buoys,NDBC
+46069,46069,-120.2,33.67,3D44 (AM) South Santa Rosa Is,46,Moored Buoys,NDBC
+46070,46070,175.15,55.07,3DV33 (AM) Southwest Bering Sea,46,Moored Buoys,NDBC
+46071,46071,179,51.12,3D78 (AR) Western Aleutians,46,Moored Buoys,NDBC
+46072,46072,-172.05,51.65,3D82 (AM) Central Aleutians,46,Moored Buoys,NDBC
+46073,46073,-172,55.02,3D10 (AM) Southeast Bering Sea,46,Moored Buoys,NDBC
+46075,46075,-160.82,53.98,3D70 (AM) Shumagin Islands,46,Moored Buoys,NDBC
+46076,46076,-147.98,59.5,3DV36 (AM) Cape Cleare,46,Moored Buoys,NDBC
+46077,46077,-154.17,57.9,3D84 (AM) Shelikof Strait,46,Moored Buoys,NDBC
+46078,46078,-152.57,55.55,3D66 (AM) Albatross Bank,46,Moored Buoys,NDBC
+46079,46079,-152.23,59.05,"6-meter NOMAD buoy; DACT payload; Barren Island, Alaska",46,Moored Buoys,NDBC
+46080,46080,-150.03,57.93,3D62 (AM) Portlock Bank,46,Moored Buoys,NDBC
+46081,46081,-148.25,60.78,6N35 (AR) Western Prince William Sound,46,Moored Buoys,NDBC
+46082,46082,-143.37,59.67,3D48 (SM) Cape Suckling,46,Moored Buoys,NDBC
+46083,46083,-137.98,58.3,3DV34 (AM) Fairweather Ground,46,Moored Buoys,NDBC
+46084,46084,-136.1,56.6,3D73 (AR) Cape Edgecumbe,46,Moored Buoys,NDBC
+46085,46085,-142.48,55.87,6N39 (AR) Central Gulf Of Alaska,46,Moored Buoys,NDBC
+46086,46086,-118.03,32.48,3D12 (AR) San Clemente Basin,46,Moored Buoys,NDBC
+46087,46087,-124.72,48.48,"3D77 (AR) Neah Bay, Wa",46,Moored Buoys,NDBC
+46088,46088,-123.17,48.32,"3D47 (AM) New Dungeness, Wa",46,Moored Buoys,NDBC
+46089,46089,-125.77,45.92,"3D85 (AM) Tillamook, Or",46,Moored Buoys,NDBC
+46105,46105,-152.233,59.049,"1.8-meter discus buoy; WAMDAS payload; South Cook Inlet - 10NM NW of East Amatuli Light, AK",46,Moored Buoys,NDBC
+46106,46106,-152.09,59.76,1.8-meter discus buoy; WAMDAS payload; Central Cook Inlet AK,46,Moored Buoys,NDBC
+46107,46107,-147.992,59.925,1.8-meter discus buoy; WAMDAS payload; Montague Strait,46,Moored Buoys,NDBC
+46108,,,,Lower Cook Inlet (204),,DWR,CDIP
+46114,,,,"West Monterey Bay, CA (185)",,DWR,CDIP
+46211,,,,"Grays Harbor, WA (036) ",,DWR,CDIP
+46213,,,,"Cape Mendocino, CA (094)",,DWR,CDIP
+46214,,,,"Point Reyes, CA (029)",,DWR,CDIP
+46215,,,,"Diablo Canyon, CA (076)",,DWR,CDIP
+46217,,,,"Anacapa Passage, CA (111)",,DWR,CDIP
+46218,,,,"Harvest, CA (071)",,DWR,CDIP
+46219,,,,"San Nicolas Island, CA (067)",,DWR,CDIP
+46221,,,,"Santa Monica Bay, CA (028) ",,DWR,CDIP
+46222,,,,"San Pedro, CA (092)",,DWR,CDIP
+46224,,,,"Oceanside Offshore, CA (045)",,DWR,CDIP
+46225,,,,"Torrey Pines Outer, CA (100)",,DWR,CDIP
+46229,,,,"UMPQUA OFFSHORE, OR (139)",,DWR,CDIP
+46232,,,,"Point Loma South, CA (191)",,DWR,CDIP
+46235,,,,"Imperial Beach Nearshore, CA (155) ",,DWR,CDIP
+46237,,,,"San Francisco Bar, CA (142)",,DWR,CDIP
+46239,,,,"Point Sur, CA (157)",,DWR,CDIP
+46240,,,,"Cabrillo Point, Monterey Bay, CA (158)",,DWR,CDIP
+46242,,,,"Camp Pendleton Nearshore, CA (043)",,DWR,CDIP
+46243,,,,"Clatsop Spit, OR (162)",,DWR,CDIP
+46244,,,,"Humboldt Bay, North Spit, CA (168)",,DWR,CDIP
+46246,,,,Ocean Station PAPA (166) ,,DWR,CDIP
+46248,,,,"Astoria Canyon, OR (179)",,DWR,CDIP
+46251,,,,"Santa Cruz Basin, CA (203)",,DWR,CDIP
+46253,,,,"San Pedro South, CA (213)",,DWR,CDIP
+46254,,,,"SCRIPPS Nearshore, CA (201)",,DWR,CDIP
+46256,,,,"Long Beach Channel, CA (215)",,DWR,CDIP
+46258,,,,"Mission Bay West, CA (220)",,DWR,CDIP
+46259,,,,"Santa Lucia Escarpment, CA (222)",,DWR,CDIP
+46260,,,,"Lakeside, OR (231)",,DWR,CDIP
+46261,,,,"Reedsport, OR (232)",,DWR,CDIP
+46262,,,,"Santa Barbara Island North, CA (234)",,DWR,CDIP
+46263,,,,"Fort Bragg South, CA (235)",,DWR,CDIP
+46264,,,,"Kodiak, AK (236)",,DWR,CDIP
+46265,,,,"Nome, AK (241)",,DWR,CDIP
+46266,,,,"Del Mar Nearshore, CA (153)",,DWR,CDIP
+48011,48011,-164.185,67.582,"3-meter discus buoy; DACT payload; Red Dog Mine, Chukchi Sea",48,Moored Buoys,NDBC
+51000,51000,-153.8,23.53,3DV05 (AM) Northern Hawaii One,51,Moored Buoys,NDBC
+51001,51001,-167.98,19.98,3DV47 (SC) Northwestern Hawaii One,51,Moored Buoys,NDBC
+51002,51002,-157.68,17.03,3DV50 (SC) Southwestern Hawaii,51,Moored Buoys,NDBC
+51003,51003,-160.57,19.28,3D16 (AM) Western Hawaii,51,Moored Buoys,NDBC
+51004,51004,-152.38,17.6,3D20 (SC) Southeastern Hawaii,51,Moored Buoys,NDBC
+51026,51026,-156.93,21.35,"3-meter discus buoy; DACT payload; Northern Molokai, HI",51,Moored Buoys,NDBC
+51028,51028,-153.913,0,"3-meter discus buoy; ARES 4.4 payload; Christmas Island, Penrhyn Basin, Central Pacific ",51,Moored Buoys,NDBC
+51100,51100,-153.9,23.558,"3-meter discus buoy; AMPS payload; NORTHERN HAWAII TWO - 252NM NE of Honolulu, HI",51,Moored Buoys,NDBC
+51101,51101,-162.22,24.32,3D61 (AR) Northwestern Hawaii Two,51,Moored Buoys,NDBC
+51201,,,,"Waimea Bay, HI (106) ",,DWR,CDIP
+51202,,,,"Mokapu Point, HI (098)",,DWR,CDIP
+51205,,,,"Pauwela, Maui, HI (187)",,DWR,CDIP
+51206,,,,"Hilo, Hawaii, HI (188)",,DWR,CDIP
+51207,,,," Kaneohe Bay, HI (198)",,DWR,CDIP
+51208,,,,"Hanalei, Kauai, HI (202)",,DWR,CDIP
+51209,,,,"Aunuu, American Samoa (189)",,DWR,CDIP
+51210,,,,"Kaneohe Bay, WETS, HI (225)",,DWR,CDIP
+51211,,,,"Pearl Harbor Entrance, HI (233)",,DWR,CDIP
+51212,,,,"Barbers Point, Kalaeloa, HI (238)",,DWR,CDIP
+51213,,,,"Kaumalapau Southwest, Lanai, HI (239)",,DWR,CDIP
+52200,,,,"Ipan, Guam (121)",,DWR,CDIP
+52201,,,,"Kalo, Majuro, Marshall Islands (163)",,DWR,CDIP
+52202,,,,"Ritidian Point, Guam (196)",,DWR,CDIP
+52009,52009,,,3-meter discus buoy; GSBP payload; De Soto Valley,51,Moored Buoys,NDBC
+52211,,,,"Tanapag, Saipan, NMI (197)",,DWR,CDIP
