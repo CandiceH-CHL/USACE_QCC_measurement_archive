@@ -1,0 +1,20 @@
+Wave_Instrument_Type_Codes,Wave_Instrument_Type_Description
+12,MSC Non-directional ODAS buoy. 12m Discus
+3D,MSC Non-directional ODAS buoy. 3m Discus
+6N,MSC Non-directional ODAS buoy. 6m NOMAD
+AE,"MSC Non-directional ODAS buoy. (6m NOMAD, 12m Discus, 3m Discus or 1.7m Watchkeeper)"
+AW,"MSC buoy data with bad Watchman payload. (Truncated spectra, VCAR=VWH$, VTPK=VTP$)"
+EN,"Directional Buoy, Endeco"
+HX,Hexoid buoy
+KG,Kelk Pressure cell
+MI,Miros Radar
+PC,Pressure cell
+ST,Staff gauge
+SW,Swartz gauge
+TG,Toga buoy
+TR,"Directional buoy, TriAxys"
+WC,"Directional buoy, WAVEC information processing system (Datawell)"
+WD,"Directional Waverider buoy, standard information processing system (Datawell)"
+WK,MSC Non-directional ODAS buoy. 1.7m Watchkeeper
+WP,"Non-directional Waverider buoy, WRIPS system (Datawell)"
+WR,"Non-directional Waverider buoy, standard system (Datawell)"
