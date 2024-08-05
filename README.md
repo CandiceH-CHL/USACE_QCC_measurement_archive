@@ -1,6 +1,8 @@
 # USACE_QCC_measurement_archive
 USACE Quality Controlled, Consistent Measurement Archive
 
+* 2023 UPDATE: Note that the NDBC USACE QCC Measurement Archive codes have been updated to faciliate a change in NDBC netCDF file formating. #2023 codes are applicable to 2023 and later NDBC website text files and the NOAA official NDBC archives at NCEI netCDF files. * 
+
 ** Note: for annual updates, use the scripts in the folders named as <AGENCY_annual_update_xxxx> ** 
 
 SYNOPSIS:
